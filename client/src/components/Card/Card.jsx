@@ -7,7 +7,6 @@ const Card = () => {
     <Link className="link" to={`/product/${item.id}`}>
       <div className="card">
         <div className="image">
-          <span></span>
           <img className="mainImg" src="" alt="" />
           <img className="secondImg" src="" alt="" />
         </div>
